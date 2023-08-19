@@ -1,3 +1,4 @@
-# Read me
+# Read Me Part 2
 
-Hello!
+Hello! 
+This is my second branch.
